@@ -1,4 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Mountain Diaries</title><link>https://mountaindiaries.com/</link><description>Recent content on Mountain Diaries</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://mountaindiaries.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Moving this blog to Hugo</title><link>https://mountaindiaries.com/posts/moving-this-blog-to-hugo/</link><pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate><guid isPermaLink="false">https://mountaindiaries.com/posts/moving-this-blog-to-hugo/</guid><description>&lt;p&gt;I&amp;rsquo;ve been blogging on and off on the internet for about 10 years on different platforms, one of them being my outdoor blog where I document stuff about my outdoor outings (mostly to jot down things I want to remember). I&amp;rsquo;ve used wix.com, then migrated it to wordpress.org, tried self-hosting but that never happened.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Mountain Diaries</title><link>https://mountaindiaries.com/</link><description>Recent content on Mountain Diaries</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 11 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://mountaindiaries.com/index.xml" rel="self" type="application/rss+xml"/><item><title>A week climbing in Buoux, France</title><link>https://mountaindiaries.com/posts/week-climbing-buoux-france/</link><pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate><guid isPermaLink="false">https://mountaindiaries.com/posts/week-climbing-buoux-france/</guid><description>&lt;p&gt;For Easter this year, I spent a week sport climbing in Buoux, France with A, T, M from the DAV climbing group.&lt;/p&gt;
+&lt;p&gt;Buoux is located in the south of France, in the area of Luberon in Provence. It&amp;rsquo;s a beautiful area with many ruins and forts, delicious food and abundant sun.&lt;/p&gt;
+&lt;figure class="mx-auto my-0 rounded-md"&gt;
+&lt;picture
+class="mx-auto my-0 rounded-md"
+&gt;
+&lt;source
+srcset="https://mountaindiaries.com/posts/week-climbing-buoux-france/auberge-des-seguins-exterior_hu_28ccbd92ae9c1b11.webp 330w,https://mountaindiaries.com/posts/week-climbing-buoux-france/auberge-des-seguins-exterior_hu_affcbfe80aaf14c4.webp 660w
+,https://mountaindiaries.com/posts/week-climbing-buoux-france/auberge-des-seguins-exterior_hu_596881fb02e7f021.webp 1024w
+,https://mountaindiaries.com/posts/week-climbing-buoux-france/auberge-des-seguins-exterior_hu_7a5d587f45877ecb.webp 1320w
+"
+sizes="100vw"
+type="image/webp"
+/&gt;
+&lt;img
+width="6000"
+height="4000"
+class="mx-auto my-0 rounded-md"
+alt="Auberge des Seguins exterior"
+loading="lazy" decoding="async"
+src="https://mountaindiaries.com/posts/week-climbing-buoux-france/auberge-des-seguins-exterior_hu_7244b9044708280b.jpg" srcset="https://mountaindiaries.com/posts/week-climbing-buoux-france/auberge-des-seguins-exterior_hu_1e62a20699dc700f.jpg 330w,https://mountaindiaries.com/posts/week-climbing-buoux-france/auberge-des-seguins-exterior_hu_7244b9044708280b.jpg 660w
+,https://mountaindiaries.com/posts/week-climbing-buoux-france/auberge-des-seguins-exterior_hu_33f24169b232e57d.jpg 1024w
+,https://mountaindiaries.com/posts/week-climbing-buoux-france/auberge-des-seguins-exterior_hu_737ae09e96b03d33.jpg 1320w
+"
+sizes="100vw"
+/&gt;
+&lt;/picture&gt;
+&lt;figcaption class="text-center"&gt;Auberge des Seguins&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;We decided to stay at the &lt;a href="https://www.aubergedesseguins.com/" target="_blank" rel="noreferrer"&gt;Auberge des Seguins&lt;/a&gt;, which is a little hard to access without a car. So we drove (or my friends did, really need to learn to drive) from Berlin to Buoux. I was afraid of the 16h journey on the car even though I didn&amp;rsquo;t even have to drive, but it ended up being quite ok with some good company.&lt;/p&gt;</description></item><item><title>Moving this blog to Hugo</title><link>https://mountaindiaries.com/posts/moving-this-blog-to-hugo/</link><pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate><guid isPermaLink="false">https://mountaindiaries.com/posts/moving-this-blog-to-hugo/</guid><description>&lt;p&gt;I&amp;rsquo;ve been blogging on and off on the internet for about 10 years on different platforms, one of them being my outdoor blog where I document stuff about my outdoor outings (mostly to jot down things I want to remember). I&amp;rsquo;ve used wix.com, then migrated it to wordpress.org, tried self-hosting but that never happened.&lt;/p&gt;
 &lt;p&gt;Last month, my wordpress.org subscription expired and I wanted to reflect whether this was something I wanted to continue paying for. And decided against it for various reasons.&lt;/p&gt;</description></item><item><title>Trying Cross-Country Skiing in Seefeld</title><link>https://mountaindiaries.com/posts/trying-cross-country-skiing-in-seefeld/</link><pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate><guid isPermaLink="false">https://mountaindiaries.com/posts/trying-cross-country-skiing-in-seefeld/</guid><description>&lt;p&gt;I took a cross-country skiing course organized by the DNA Trails community in Seefeld (Langlaufschule Rückenwind Seefeld), which is about an hour away from Innsbruck by public transport.&lt;/p&gt;
 &lt;h3 id="whats-cross-country-skiing" class="relative group"&gt;What’s cross-country skiing? &lt;span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"&gt;&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#whats-cross-country-skiing" aria-label="Anchor"&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;Cross-country skiing (XC) is part of Nordic skiing and is done on prepared tracks (“loipes”) or off-track in the backcountry. You move using a combination of leg push and pole push, with skis that allow you to go both uphill and downhill.&lt;/p&gt;</description></item><item><title>First time ice climbing</title><link>https://mountaindiaries.com/posts/first-time-ice-climbing/</link><pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate><guid isPermaLink="false">https://mountaindiaries.com/posts/first-time-ice-climbing/</guid><description>&lt;p&gt;&lt;em&gt;Date: Jan 31 2026&lt;/em&gt;&lt;br&gt;
 &lt;em&gt;Location: Ice park near Innsbruck &lt;a href="https://share.google/3IBN8jYbusYO6Qx9B" target="_blank" rel="noreferrer"&gt;47°01'53.4&amp;quot;N 10°44'50.1&amp;quot;E&lt;/a&gt;, Austria&lt;/em&gt;&lt;/p&gt;
